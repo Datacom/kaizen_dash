@@ -1,0 +1,103 @@
+[{
+  "behaviour": {
+    "goal": "180.0",
+    "current": "31.0",
+    "current_plus_discretionary": "31.0"
+  },
+  "opportunity": {
+    "goal": "150.0",
+    "current": "4.5",
+    "current_plus_discretionary": "4.5"
+  },
+  "revenue": {
+    "break_even": "135000.0",
+    "goal": "175500.0",
+    "current": "40694.0",
+    "current_plus_discretionary": "40694.0"
+  }
+}, {
+  "behaviour": {
+    "goal": "180.0",
+    "current": "31.0",
+    "current_plus_discretionary": "231.0"
+  },
+  "opportunity": {
+    "goal": "150.0",
+    "current": "4.5",
+    "current_plus_discretionary": "4.5"
+  },
+  "revenue": {
+    "break_even": "135000.0",
+    "goal": "175500.0",
+    "current": "40944.0",
+    "current_plus_discretionary": "40944.0"
+  }
+}, {
+  "behaviour": {
+    "goal": "180.0",
+    "current": "31.0",
+    "current_plus_discretionary": "31.0"
+  },
+  "opportunity": {
+    "goal": "150.0",
+    "current": "4.5",
+    "current_plus_discretionary": "4.5"
+  },
+  "revenue": {
+    "break_even": "135000.0",
+    "goal": "175500.0",
+    "current": "40944.0",
+    "current_plus_discretionary": "40944.0"
+  }
+}, {
+  "behaviour": {
+    "goal": "180.0",
+    "current": "31.0",
+    "current_plus_discretionary": "31.0"
+  },
+  "opportunity": {
+    "goal": "150.0",
+    "current": "4.5",
+    "current_plus_discretionary": "4.5"
+  },
+  "revenue": {
+    "break_even": "135000.0",
+    "goal": "175500.0",
+    "current": "41561.95",
+    "current_plus_discretionary": "61561.95"
+  }
+}, {
+  "behaviour": {
+    "goal": "180.0",
+    "current": "36.0",
+    "current_plus_discretionary": "236.0"
+  },
+  "opportunity": {
+    "goal": "150.0",
+    "current": "10.25",
+    "current_plus_discretionary": "10.25"
+  },
+  "revenue": {
+    "break_even": "150000.0",
+    "goal": "225000.0",
+    "current": "42977.95",
+    "current_plus_discretionary": "62977.95"
+  }
+}, {
+  "behaviour": {
+    "goal": "180.0",
+    "current": "180.0",
+    "current_plus_discretionary": "180.0"
+  },
+  "opportunity": {
+    "goal": "150.0",
+    "current": "150",
+    "current_plus_discretionary": "150"
+  },
+  "revenue": {
+    "break_even": "150000.0",
+    "goal": "225000.0",
+    "current": "225000.0",
+    "current_plus_discretionary": "225000.0"
+  }
+}]
